@@ -1,0 +1,6 @@
+[submodule "module_aa"]
+	path = module_aa
+	url = git@github.com:MarioM51/module_aa.git
+[submodule "module_bb"]
+	path = module_bb
+	url = git@github.com:MarioM51/module_bb.git
